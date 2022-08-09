@@ -18,7 +18,7 @@ Customers: `cust_id`, `cust_name`, `cust_phone`, `cust_email`, `cust_adress`, `c
 **2. Seeding the Database** 
 
 The purpose of *database seeding* is to provide some data for your empty database.
-You'll be using the `INSERT INTO` statement for this purpose. The documentation can be found [here](https://www.postgresql.org/docs/12/sql-insert.html).
+You'll be using the `INSERT INTO` statement for this purpose. The documentation can be found [here](https://dev.mysql.com/doc/refman/8.0/en/insert.html).
 
 Here are some examples to insert into your tables:
 
