@@ -1,8 +1,11 @@
 # SQL Review: Case OLIST
 
+
+Download do DB MySQL:
+https://drive.google.com/file/d/1EKlvif0AWv9wmhzw1iCk71eSPyPjxqqR/view?usp=sharing
+
+Fonte de dados:
 https://www.kaggle.com/olistbr/brazilian-ecommerce
-
-
 
 ## 1. O impacto de atrasos
 O atraso na entrega é motivo de frustração para clientes de qualquer e-commerce. Gostaríamos de compreender melhor se existem causas estruturais para o atraso e compreender se esses atrasos geram um impacto na percepção do cliente sobre os pedidos.
