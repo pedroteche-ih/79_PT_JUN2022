@@ -2,7 +2,7 @@ SELECT
 	d.A4 AS total_pop,
 	d.A9 AS num_cities,
 	d.A10 AS urb_pop_ratio,
-	(d.A12 + d.A13) AS avg_unemploy,
+	(d.A12 + d.A13)/2 AS avg_unemploy,
 	(d.A15 + d.A16)/(2 * d.A4) AS avg_crime_rate,
 	tx_emp_distrito.TX_DEVEDORES AS tx_devedores,
 	tx_emp_distrito.NUM_EMPRESTIMOS AS num_emprestimos
