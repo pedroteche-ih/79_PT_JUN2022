@@ -19,3 +19,5 @@ aulas/data/dados_censo/Basico_RJ.csv
 aulas/data/dados_censo/Basico_SP1.csv
 aulas/data/dados_censo/Basico_SP2.csv
 *.icloud
+aulas/credentials/mysql.env
+aulas/credentials/spotify.env
