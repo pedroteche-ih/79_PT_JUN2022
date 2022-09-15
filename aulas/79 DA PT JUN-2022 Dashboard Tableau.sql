@@ -1,4 +1,4 @@
-CREATE VIEW tb_linha_pedido AS 
+CREATE TABLE tb_linha_pedido AS 
 SELECT
 	oodc.order_id,
 	ooidc.price,
