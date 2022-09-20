@@ -21,3 +21,4 @@ aulas/data/dados_censo/Basico_SP2.csv
 *.icloud
 aulas/credentials/mysql.env
 aulas/credentials/spotify.env
+aulas/data/tb_ames_housing.csv
