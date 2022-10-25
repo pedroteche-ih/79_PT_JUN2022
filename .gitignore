@@ -22,3 +22,9 @@ aulas/data/dados_censo/Basico_SP2.csv
 aulas/credentials/mysql.env
 aulas/credentials/spotify.env
 aulas/catboost_info/time_left.tsv
+aulas/catboost_info/catboost_training.json
+aulas/catboost_info/learn/events.out.tfevents
+aulas/catboost_info/learn_error.tsv
+aulas/catboost_info/test/events.out.tfevents
+aulas/catboost_info/test_error.tsv
+aulas/catboost_info/time_left.tsv
